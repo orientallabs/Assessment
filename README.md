@@ -20,8 +20,11 @@ The UI consists of a dropdown menu as well as a static side bar with individual 
 All submissions are to be ZIPPED and attached to mail OR hosted on Google Drive and shared link with “view only” access to ram.soren@labkafe.com with email containing, the following format-
 
 > Name  : <YOUR FULL NAME>
+
 > Contact Number : <CONTACT NO.>
+
 > Technologies Used  : <ALL LIBRARIES/TECHNOLOGIES USED>
+
 > Link to ZIP : <GOOGLE DRIVE LINK WITH VIEW ACCESS> / KEEP BLANK IF ATTACHED ZIP TO MAIL
  
 
