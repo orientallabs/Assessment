@@ -25,7 +25,7 @@ All submissions are to be ZIPPED and attached to mail OR hosted on Google Drive 
 
 > Technologies Used  : <ALL LIBRARIES/TECHNOLOGIES USED>
 
-> Link to ZIP : <GOOGLE DRIVE LINK WITH VIEW ACCESS> / KEEP BLANK IF ATTACHED ZIP TO MAIL
+> Link to ZIP : <GOOGLE DRIVE LINK WITH VIEW ACCESS / KEEP BLANK IF ATTACHED ZIP TO MAIL>
  
 
 ## HELP
