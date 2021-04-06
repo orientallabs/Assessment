@@ -15,7 +15,7 @@ The UI consists of a dropdown menu as well as a static side bar with individual 
 2.  There is no compulsion to use everything provided in the assets folder, Images/Text/Icons given in the UI can be changed with anything which is accessible to the developer. The Color Scheme however should be maintained. 
 3.	The submitted UI needs to be complete in every sense, incomplete UI will not be accepted. Only "dev" versions will be accepted, "build" submisisons will be automatically rejected. A readme file with build instructions will be helpful.
 4.	The given UI is given in snapshots and does not represent any motion or animation. This is up to the developer to improvise on and use his/her creativity for animations.
-5.	 Since “responsive design” is one of the key skills required for this role. The developer is expected to implement and think of a suitable mobile version for the same navbar. The UI for mobile screens may be completely built from scratch for mobile keeping the functionality. This sub-part of the task is to give us a taste of “design sense” of the developer.
+5.	 Since “responsive design” is one of the key skills required for this role. The developer is expected to implement and think of a suitable mobile version for the same navbar. The UI for mobile screens may be completely built from scratch, keeping the intended functionality intact. This sub-part of the task is to give us a taste of “design sense” of the developer.
 
 All submissions are to be ZIPPED and attached to mail OR hosted on Google Drive and shared link with “view only” access to ram.soren@labkafe.com with email containing, the following format-
 
