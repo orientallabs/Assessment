@@ -1,4 +1,4 @@
-[![N|Solid](https://www.labkafe.com/img/labkafe-logo-1569670067.jpg)](https://www.labkafe.com)
+[![N|Solid](https://www.labkafe.com/storage/logo.png)](https://www.labkafe.com)
 # Assessment
 _Frontend Developer - Labkafe_
 
